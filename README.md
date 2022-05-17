@@ -2,4 +2,4 @@
 
 # Bulk_Email_Macro
 
-An excel workbook to prepare many individual emails to be sent through Microsoft Outlook by a VBA macro.
+An excel workbook to quickly prepare many individual emails to be sent through Microsoft Outlook by a VBA macro.
